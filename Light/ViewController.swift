@@ -9,8 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     var lightOn = true
-    override func viewDidLoad()
-    {
+    override func viewDidLoad() {
         super.viewDidLoad()
         updateUI()
     }
